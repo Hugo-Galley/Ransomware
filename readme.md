@@ -13,4 +13,4 @@ The goal is to show how easy it is to create a virus today.
 #Thanks
 
 
-A very big thank you to [NetworkChuk](https://www.youtube.com/user/NetworkChuck)who realized the basis of the project
+A very big thank you to [NetworkChuk](https://www.youtube.com/user/NetworkChuck) who realized the basis of the project
