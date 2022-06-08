@@ -10,7 +10,7 @@ This project is purely for educational purposes and should not be used for malic
 ## Goal 
 The goal is to show how easy it is to create a virus today.
  
-#Thanks
+## Thanks
 
 
 A very big thank you to [NetworkChuk](https://www.youtube.com/user/NetworkChuck) who realized the basis of the project
