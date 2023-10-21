@@ -1,16 +1,32 @@
 # Ransomware
 
-## Before Starting
+## Avant de Commencer
 
-this project is largely taken from this [video](https://youtu.be/UtMMjXOlRQc)
-## Secondly 
+Ce projet est largement inspiré de cette [vidéo](https://youtu.be/UtMMjXOlRQc).
 
-This project is purely for educational purposes and should not be used for malicious purposes.
+## Deuxièmement
 
-## Goal 
-The goal is to show how easy it is to create a virus today.
- 
-## Thanks
+Ce projet est strictement à des fins éducatives et ne doit pas être utilisé à des fins malveillantes.
 
+## Objectif
 
-A very big thank you to [NetworkChuk](https://www.youtube.com/user/NetworkChuck) who realized the basis of the project
+L'objectif est de montrer à quel point il est facile de créer un virus de nos jours.
+
+## Prérequis
+
+Avant d'installer les bibliothèques, assurez-vous d'avoir Python installé sur votre système. Vous pouvez télécharger Python depuis le site officiel : [https://www.python.org/downloads/](https://www.python.org/downloads).
+
+## Installation des Bibliothèques
+
+Pour installer les bibliothèques requises, ouvrez un terminal ou une invite de commande et exécutez les commandes suivantes :
+
+```bash
+pip install cryptography
+pip install art
+pip install termcolor
+
+```
+
+## Remerciements
+
+Un très grand merci à [NetworkChuk](https://www.youtube.com/user/NetworkChuck) qui a réalisé la base du projet.
