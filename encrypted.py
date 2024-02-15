@@ -1,9 +1,5 @@
 import os
 from cryptography.fernet import Fernet
-from art import *
-from termcolor import colored
-
-print(colored(text2art("Ransomware").center(60), 'red'))
 global erreur
 erreur = 0
 
