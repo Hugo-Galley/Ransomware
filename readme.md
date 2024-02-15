@@ -22,9 +22,6 @@ Pour installer les bibliothèques requises, ouvrez un terminal ou une invite de 
 
 ```bash
 pip install cryptography
-pip install art
-pip install termcolor
-
 ```
 
 ## Remerciements
